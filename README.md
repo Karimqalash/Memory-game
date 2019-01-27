@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
 
 ## Instructions
 
@@ -20,8 +19,3 @@ A timer starts from the moment of strting the game till all the cards being matc
 Restart button is provided so the user can use it anytime
 
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
